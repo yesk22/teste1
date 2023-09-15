@@ -21,7 +21,7 @@ O projeto aborda o mapeamento das cadeias produtivas da Região Metropolitana do
 
 <div id="top"></div>
 <p align="center">
-      <img src="./img/Burndown.PNG" width="30%" height="30%"> 
+      <img src=".img/Burndown.PNG" width="30%" height="30%"> 
 <p align="center">
   
 A **FASTLOG** tem como missão realizar consultorias de maneira eficiente e ágil, proporcionando melhorias para nossos clientes, inndependentemente do quão difícil seja, entendemos que somos capazes de auxiliar nossos clientes por meio da entrega de produtos eficientes e eficazes para a resolução de seus problemas. 
